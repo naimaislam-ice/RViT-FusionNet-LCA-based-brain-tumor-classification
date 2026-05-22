@@ -18,12 +18,12 @@ RViT-FusionNet is a hybrid deep learning framework for brain tumor classificatio
 
 The proposed architecture combines:
 
-• ResNet50-based local spatial feature extraction
-• Vision Transformer (ViT)-based global contextual representation learning
-• Local Cross-Attention (LCA) feature fusion
-• Adversarial domain-invariant feature learning through a domain discriminator
-• Adaptive gated feature fusion
-• Grad-CAM-based tumor localization
+- ResNet50-based local spatial feature extraction
+- Vision Transformer (ViT)-based global contextual representation learning
+- Local Cross-Attention (LCA) feature fusion
+- Adversarial domain-invariant feature learning through a domain discriminator
+- Adaptive gated feature fusion
+- Grad-CAM-based tumor localization
 
 The framework is designed to improve classification robustness, feature generalization, and explainability for MRI-based brain tumor diagnosis.
 
