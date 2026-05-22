@@ -23,20 +23,12 @@ The framework is designed to improve classification robustness, feature generali
 
 ---
 
-## Research Title
-
-**RViT-FusionNet: A Local Cross-Attention Feature Fusion-based Hybrid Framework for Brain Tumor Classification** :contentReference[oaicite:0]{index=0}
-
----
-
 ## Authors
 
 - Naima Islam
 - Sajeeb Kumar Ray
 - Md. Anwar Hossain
 - Syed Mohammed Shamsul Islam
-
-:contentReference[oaicite:1]{index=1}
 
 ---
 
@@ -84,7 +76,7 @@ This repository includes:
 ## Grad-CAM Visualization
 
 <p align="center">
-  <img src="assets/gradcam_visualization.png" width="90%">
+  <img src="Visuals/gradcam_20samples_5x4.png" width="90%">
 </p>
 
 > Replace `assets/gradcam_visualization.png` with your uploaded Grad-CAM visualization image path.
