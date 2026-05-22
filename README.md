@@ -11,7 +11,7 @@
 ## Overview
 
 <p align="center">
-  <img src="Visuals/Overview_of_the_proposed_RViT-FusionNet_method.png" width="95%">
+  <img src="Visuals/Overview_of_the_ proposed_RViT-FusionNet_method.png" width="95%">
 </p>
 
 RViT-FusionNet is a hybrid deep learning framework for brain tumor classification using MRI images. The framework integrates convolutional neural networks and transformer-based global representation learning through a Local Cross-Attention fusion strategy.
