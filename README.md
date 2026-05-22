@@ -76,7 +76,7 @@ This repository includes:
 ## Grad-CAM Visualization
 
 <p align="center">
-  <img src="Visuals/gradcam_20samples_5x4.png" width="90%">
+  <img src="Grad-CAM Localization of Brain Tumor.png" width="100%">
 </p>
 
 > Replace `assets/gradcam_visualization.png` with your uploaded Grad-CAM visualization image path.
