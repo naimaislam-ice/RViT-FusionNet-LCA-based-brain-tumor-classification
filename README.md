@@ -17,11 +17,12 @@
 RViT-FusionNet is a hybrid deep learning framework for brain tumor classification using MRI images. The framework integrates convolutional neural networks and transformer-based global representation learning through a Local Cross-Attention fusion strategy.
 
 The proposed architecture combines:
-- ResNet50 local spatial representation learning
-- Vision Transformer global contextual learning
-- Local Cross-Attention feature fusion
-- Patch-based domain discrimination
-- Adaptive gated multimodal fusion
+• ResNet50-based local spatial feature extraction
+• Vision Transformer (ViT)-based global contextual representation learning
+• Local Cross-Attention (LCA) feature fusion
+• Adversarial domain-invariant feature learning through a domain discriminator
+• Adaptive gated feature fusion
+• Grad-CAM-based tumor localization
 
 The framework is designed to improve classification robustness, feature generalization, and explainability for MRI-based brain tumor diagnosis.
 
@@ -40,7 +41,7 @@ The framework is designed to improve classification robustness, feature generali
 
 This work contributes to the field of brain tumor classification in several ways:
 
-- The proposed framework, **RViT-FusionNet**, combines the strengths of ResNet-50 and Vision Transformer for brain tumor classification using MRI images through a **Local Cross-Attention (LCA)** module that fuses local texture representations with global contextual representations, improving spatial understanding and feature alignment.
+- The proposed framework, **RViT-FusionNet**, combines the strengths of ResNet-50 and Vision Transformer (ViT) for brain tumor classification using MRI images through a **Local Cross-Attention (LCA)** module that fuses local texture representations with global contextual representations, improving spatial understanding and feature alignment.
 
 - A **patch-based domain discriminator** is introduced using adversarial learning with binary cross-entropy loss to derive domain-invariant spatial features from ResNet-derived feature maps, improving robustness and generalization across different MRI scanners.
 
