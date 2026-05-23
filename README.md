@@ -45,7 +45,7 @@ This work contributes to the field of brain tumor classification in several ways
 
 - The proposed framework, **RViT-FusionNet**, combines the strengths of ResNet-50 and Vision Transformer (ViT) for brain tumor classification using MRI images through a **Local Cross-Attention (LCA)** module that fuses local texture representations with global contextual representations, improving spatial understanding and feature alignment.
 
-- A **patch-based domain discriminator** is introduced using adversarial learning with binary cross-entropy loss to derive domain-invariant spatial features from ResNet-derived feature maps, improving robustness and generalization across different MRI scanners.
+- A **domain discriminator** is introduced using adversarial learning with binary cross-entropy loss to derive domain-invariant spatial features from ResNet-derived feature maps, improving robustness and generalization across different MRI scanners.
 
 - Multiple publicly available brain MRI datasets are utilized to comprehensively evaluate the proposed framework while maintaining strict separation of testing data during training.
 
