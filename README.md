@@ -53,6 +53,45 @@ This work contributes to the field of brain tumor classification in several ways
 
 ---
 
+## Dataset
+
+The proposed **RViT-FusionNet** framework was evaluated using four publicly available brain MRI datasets (DS1–DS4) containing four tumor categories:
+
+- Glioma
+- Meningioma
+- Pituitary
+- No Tumor
+
+### Dataset Summary
+
+| Dataset | Description | Total Images | Usage |
+|----------|-------------|-------------:|--------|
+| DS1 | Combined Figshare, SARTAJ, and Br35H datasets | 7,023 | Training + Testing |
+| DS2 | Extended version of DS1 with additional images | 7,153 | External Evaluation |
+| DS3 | Brain tumor MRI dataset | 3,264 | External Evaluation |
+| DS4 | Large-scale brain MRI dataset | 40,100 | External Evaluation |
+
+### Training Strategy
+
+- RViT-FusionNet was trained using the **training subset of DS1**.
+- The best model was selected according to validation performance during training.
+- The selected model was saved and evaluated on:
+  - DS1 test set
+  - DS2
+  - DS3
+  - DS4
+- External datasets were used to evaluate the model's **generalization capability across different MRI distributions**.
+
+### Dataset Sources
+
+- DS1: :contentReference[oaicite:0]{index=0}
+- DS2: :contentReference[oaicite:1]{index=1}
+- DS3: :contentReference[oaicite:2]{index=2}
+- DS4: :contentReference[oaicite:3]{index=3}
+
+
+---
+
 ## Authors
 
 - Naima Islam
