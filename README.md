@@ -95,6 +95,30 @@ The proposed **RViT-FusionNet** framework was evaluated using four publicly avai
 
 ---
 
+## Experimental Results
+
+| Dataset | Class | Precision | Recall | F1-Score | Accuracy |
+|----------|--------|------------|---------|-----------|-----------|
+| DS1 | Glioma | 1.00 | 0.99 | 0.99 | 99.08% |
+|  | Meningioma | 0.98 | 0.98 | 0.98 |  |
+|  | No Tumor | 0.99 | 1.00 | 1.00 |  |
+|  | Pituitary | 0.99 | 1.00 | 1.00 |  |
+| DS2 | Glioma | 1.00 | 0.99 | 1.00 | 99.66% |
+|  | Meningioma | 0.99 | 0.99 | 0.99 |  |
+|  | No Tumor | 1.00 | 1.00 | 1.00 |  |
+|  | Pituitary | 1.00 | 1.00 | 1.00 |  |
+| DS3 | Glioma | 1.00 | 0.90 | 0.95 | 96.20% |
+|  | Meningioma | 0.93 | 0.99 | 0.96 |  |
+|  | No Tumor | 0.92 | 1.00 | 0.95 |  |
+|  | Pituitary | 1.00 | 0.98 | 0.99 |  |
+| DS4 | Glioma | 0.98 | 0.92 | 0.94 | 95.05% |
+|  | Meningioma | 0.91 | 0.95 | 0.93 |  |
+|  | No Tumor | 0.96 | 0.99 | 0.97 |  |
+|  | Pituitary | 0.95 | 0.93 | 0.94 |  |
+
+
+---
+
 ## Authors
 
 - Naima Islam
