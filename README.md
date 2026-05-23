@@ -119,7 +119,7 @@ The proposed **RViT-FusionNet** framework was evaluated using four publicly avai
 
 ---
 
-## RViT-FusionNet model’s Accurate Predictions 
+## Sample Prediction Results
 
 <p align="center">
   <img src="Visuals/Correct_Predictions.png" width="90%">
@@ -132,6 +132,15 @@ The proposed **RViT-FusionNet** framework was evaluated using four publicly avai
 <p align="center">
   <img src="Visuals/Grad-CAM_Localization_of_Brain_Tumor.png" width="90%">
 </p>
+
+---
+
+## Authors
+
+- Naima Islam
+- Sajeeb Kumar Ray
+- Md. Anwar Hossain
+- Syed Mohammed Shamsul Islam
 
 ---
 
@@ -148,14 +157,6 @@ If you find this work useful in your research, please cite:
 }
 ```
 
-## Authors
-
-- Naima Islam
-- Sajeeb Kumar Ray
-- Md. Anwar Hossain
-- Syed Mohammed Shamsul Islam
-
----
 
 # Repository Contents
 
