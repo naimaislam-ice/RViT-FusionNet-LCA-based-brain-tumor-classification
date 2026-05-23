@@ -119,6 +119,35 @@ The proposed **RViT-FusionNet** framework was evaluated using four publicly avai
 
 ---
 
+## RViT-FusionNet model’s Accurate Predictions 
+
+<p align="center">
+  <img src="Visuals/Correct_Predictions.png" width="90%">
+</p>
+
+---
+
+## Grad-CAM Visualization
+
+<p align="center">
+  <img src="Visuals/Grad-CAM_Localization_of_Brain_Tumor.png" width="90%">
+</p>
+
+---
+
+## Citation
+
+If you find this work useful in your research, please cite:
+
+```bibtex
+@article{Islam2026RViTFusionNet,
+  title={RViT-FusionNet: A Local Cross-Attention Feature Fusion-based Hybrid Framework for Brain Tumor Classification},
+  author={Naima Islam and Sajeeb Kumar Ray and Md. Anwar Hossain and Syed Mohammed Shamsul Islam},
+  journal={Under Review},
+  year={2026}
+}
+```
+
 ## Authors
 
 - Naima Islam
@@ -142,12 +171,3 @@ This repository includes:
 - Prediction visualization outputs
 
 ---
-
-
-## Grad-CAM Visualization
-
-<p align="center">
-  <img src="Visuals/Grad-CAM_Localization_of_Brain_Tumor.png" width="90%">
-</p>
-
-
