@@ -151,8 +151,8 @@ If you find this work useful in your research, please cite:
 ```bibtex
 @article{Islam2026RViTFusionNet,
   title={RViT-FusionNet: A Local Cross-Attention Feature Fusion-based Hybrid Framework for Brain Tumor Classification},
-  author={Naima Islam and Sajeeb Kumar Ray and Md. Anwar Hossain and Syed Mohammed Shamsul Islam},
-  journal={Under Review},
+  author={Naima Islam, Sajeeb Kumar Ray, Md. Anwar Hossain and Syed Mohammed Shamsul Islam},
+  journal={Recently Accepted},
   year={2026}
 }
 ```
