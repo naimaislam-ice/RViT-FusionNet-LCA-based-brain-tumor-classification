@@ -84,10 +84,13 @@ The proposed **RViT-FusionNet** framework was evaluated using four publicly avai
 
 ### Dataset Sources
 
-- DS1: :contentReference[oaicite:0]{index=0}
-- DS2: :contentReference[oaicite:1]{index=1}
-- DS3: :contentReference[oaicite:2]{index=2}
-- DS4: :contentReference[oaicite:3]{index=3}
+- DS1: [Brain Tumor MRI Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
+
+- DS2: [Brain Tumor MRI Data](https://www.kaggle.com/datasets/tombackert/brain-tumor-mri-data)
+
+- DS3: [Brain Tumor Classification MRI](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri/data)
+
+- DS4: [Large-scale Brain MRI Dataset](https://doi.org/10.34740/kaggle/dsv/10329066)
 
 
 ---
