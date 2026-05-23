@@ -29,12 +29,13 @@ The framework is designed to improve classification robustness, feature generali
 
 ---
 
-## Authors
+# Proposed Architecture
 
-- Naima Islam
-- Sajeeb Kumar Ray
-- Md. Anwar Hossain
-- Syed Mohammed Shamsul Islam
+## System Architecture of RViT-FusionNet
+
+<p align="center">
+  <img src="Visuals/System_Arcitecture_of_RViT-FusionNet.png" width="95%">
+</p>
 
 ---
 
@@ -49,6 +50,15 @@ This work contributes to the field of brain tumor classification in several ways
 - Multiple publicly available brain MRI datasets are utilized to comprehensively evaluate the proposed framework while maintaining strict separation of testing data during training.
 
 - The framework incorporates **Grad-CAM visualization** to localize tumor regions influencing model predictions, improving transparency and trustworthiness in clinical decision support.
+
+---
+
+## Authors
+
+- Naima Islam
+- Sajeeb Kumar Ray
+- Md. Anwar Hossain
+- Syed Mohammed Shamsul Islam
 
 ---
 
@@ -67,17 +77,6 @@ This repository includes:
 
 ---
 
-# Proposed Architecture
-
-## System Architecture of RViT-FusionNet
-
-<p align="center">
-  <img src="Visuals/System_Arcitecture_of_RViT-FusionNet.png" width="95%">
-</p>
-
-
-
----
 
 ## Grad-CAM Visualization
 
