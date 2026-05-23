@@ -69,7 +69,7 @@ The proposed **RViT-FusionNet** framework was evaluated using four publicly avai
 | DS1 | Combined Figshare, SARTAJ, and Br35H datasets | 7,023 | Training + Testing |
 | DS2 | Extended version of DS1 with additional images | 7,153 | External Evaluation |
 | DS3 | Brain tumor MRI dataset | 3,264 | External Evaluation |
-| DS4 | Large-scale brain MRI dataset | 40,100 | External Evaluation |
+| DS4 | Brain Tumor MRI Classification dataset | 40,100 | External Evaluation |
 
 ### Training Strategy
 
@@ -90,7 +90,7 @@ The proposed **RViT-FusionNet** framework was evaluated using four publicly avai
 
 - DS3: [Brain Tumor Classification MRI](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri/data)
 
-- DS4: [Large-scale Brain MRI Dataset](https://doi.org/10.34740/kaggle/dsv/10329066)
+- DS4: [Brain Tumor MRI Classification](https://doi.org/10.34740/kaggle/dsv/10329066)
 
 
 ---
