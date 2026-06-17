@@ -158,11 +158,9 @@ If you find this work useful in your research, please cite:
   pages={518},
   year={2026},
   publisher={Springer},
-  doi={10.1007/s00521-026-12290-x},
-  url={https://doi.org/10.1007/s00521-026-12290-x}
+  doi={https://doi.org/10.1007/s00521-026-12290-x}
 }
 ```
-
 
 # Repository Contents
 
