@@ -155,6 +155,7 @@ If you find this work useful in your research, please cite:
   journal={Neural Computing and Applications},
   year={2026},
   publisher={Springer},
+  doi={10.1007/s00521-026-12290-x},
   url={https://doi.org/10.1007/s00521-026-12290-x}
 }
 ```
